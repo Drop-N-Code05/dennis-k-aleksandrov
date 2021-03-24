@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, HTML5, and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (+356 99 147 624)
+- 📫 How to reach me dennis.k.aleksandrov@gmail.com
 
 <!---
 dennis-k-aleksandrov/dennis-k-aleksandrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
