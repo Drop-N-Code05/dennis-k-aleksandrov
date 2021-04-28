@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennis-k-aleksandrov
+- 👋 Hi, I’m @Drop-N-Code05
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, HTML5, and CSS
 - 💞️ I’m looking to collaborate on ...
